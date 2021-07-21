@@ -1,1 +1,0 @@
-concurrently 'gulp watch' 'hugo server -D'
